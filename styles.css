@@ -10,8 +10,8 @@ body{
     color: inherit; /*Para retirar a cor padrão azul, do link*/
     color: #ffffff;
     display: flex;
-    width: 280px;
-    height: 79px;
+    width: 150px;
+    height: 50px;
     padding: 16px;
     justify-content: center;
     align-items: center;
